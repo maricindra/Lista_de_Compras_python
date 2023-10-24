@@ -1,7 +1,7 @@
 # Lista_de_Compras_python📜✔✨
 Criando uma lista para organização e controle de itens para se comprar em um mercado.
 
-OBJETIVO: CRIAR UMA LISTA DE COMPRAS NO PYTHON DE FORMA ORGANIZADA
+OBJETIVO: CRIAR UMA LISTA DE COMPRAS NO PYTHON DE FORMA ORGANIZADA 📜✔✨
 
 -> COMO
 - UTILIZANDO LISTAS
